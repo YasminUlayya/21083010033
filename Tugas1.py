@@ -1,0 +1,11 @@
+print('-' * 35)
+print('Tugas 1 SISOP Kelas-A')
+print('-' * 35)
+print('Nama : Yasmin Ulayya')
+print('NPM : 21083010033')
+print('-' * 35)
+print('notes: ')
+print('-' * 35)
+print('Halo dunia!')
+print('Ini adalah skrip Bash pertamaku di Linux')
+
